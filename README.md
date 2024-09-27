@@ -1,3 +1,4 @@
 # dipesh's repo
 
-This is my repository. 
+HI! I am Dipesh.
+This is my github repository. 
